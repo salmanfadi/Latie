@@ -1,0 +1,2 @@
+# Latie
+Proximity Checker Application
